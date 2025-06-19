@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**ranatalhamajid1/ranatalhamajid1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# 👋 Hi there! I'm Rana Muhammad Talha Majid
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Aspiring Cybersecurity Expert | Full Stack Developer | Front-End Enthusiast**
+
+Welcome to my GitHub! I'm a Computer Science student at **UET Taxila**, passionate about web development, cybersecurity, and digital creativity. With hands-on experience in both development and design, I build secure, scalable, and user-friendly solutions.
+
+---
+
+### 🧠 About Me
+- 🎓 **Computer Science Student** (2023–2027)
+- 💻 Web Developer | Front-end focused with back-end know-how
+- 🔐 Cybersecurity Enthusiast | PenTest & Threat Analysis | TryHackMe Explorer
+- 🎬 Video Editing & UI/UX Design Hobbyist
+- 📍 Based in **Multan/Islamabad**, Pakistan
+
+---
+
+### 🔧 Tech Stack
+
+**Languages & Frameworks**
+```html
+HTML | CSS | JavaScript | PHP | SQL | C/C++ | Java | Assembly (x86)
+
+React | Bootstrap | TailwindCSS | jQuery
+
+PHP | SQLite | MySQL | SQL Server
