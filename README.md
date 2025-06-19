@@ -75,6 +75,6 @@
 <p align="center"><i>"Security is not a product, but a process." – Bruce Schneier</i></p>
 
 <p align="center">
-  <img src="https://github.com/ranatalhamajid1/ranatalhamajid1/blob/main/download.gif?raw=true" alt="Hacker typing GIF" width="1920" height="732" />
+  <img src="https://github.com/ranatalhamajid1/ranatalhamajid1/blob/main/download.gif?raw=true" alt="Hacker typing GIF" width="302"/>
 </p>
 
