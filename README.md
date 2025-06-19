@@ -1,5 +1,6 @@
 
-![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/7cc0e2d6-31ca-41a7-b1ca-7b0826b3ffb4)
+![Coding Computer Science GIF by CC0 Studios](https://github.com/user-attachments/assets/94678ace-d80c-4ec4-ae3b-9c9e30f3ec46)
+
 
 # 👋 Hi there! I'm Rana Muhammad Talha Majid
 
@@ -32,7 +33,7 @@ PHP | SQLite | MySQL | SQL Server
 ## Tools & Platforms
 
 Git | GitHub | VS Code | XAMPP | Figma | Canva | Adobe Premiere | TryHackMe
-
+---
 ##🌟 Highlights
 🔸 University Management System – Secure full-stack project with PHP & MySQL
 
@@ -43,7 +44,7 @@ Git | GitHub | VS Code | XAMPP | Figma | Canva | Adobe Premiere | TryHackMe
 🔸 Custom Contact Form – PHP + SQLite form with input validation & database logging
 
 🔸 Animated Weather & Quiz Apps – JavaScript projects with UI animations, timers, and score tracking
-
+---
 ##📜 Certifications
 ✅ IBM Full Stack Developer (Coursera)
 
@@ -54,10 +55,10 @@ Git | GitHub | VS Code | XAMPP | Figma | Canva | Adobe Premiere | TryHackMe
 ✅ Cybersecurity (TryHackMe)
 
 ✅ AI/ML (eHunar)
-
+---
 ##📈 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ranatalhamajid1&show_icons=true&theme=github_dark" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranatalhamajid1&layout=compact&theme=github_dark" height="165"> </p>
-
+---
 ##📬 Let's Connect
 📧 talhamajid404@gmail.com
 
@@ -68,4 +69,6 @@ Git | GitHub | VS Code | XAMPP | Figma | Canva | Adobe Premiere | TryHackMe
 “The best way to predict the future is to create it.” – Abraham Lincoln
 
 ⭐️ Thanks for visiting my profile! Feel free to check out my repositories and projects.
+
+![Code Coding GIF by EscuelaDevRock](https://github.com/user-attachments/assets/0f29860a-99ba-4a19-aecf-1b616ea10cab)
 
