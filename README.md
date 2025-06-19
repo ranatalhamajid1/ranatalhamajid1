@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ranatalhamajid1/ranatalhamajid1/blob/main/download.gif?raw=true" alt="Hacker typing GIF" width="300" />
+  <img src="https://github.com/ranatalhamajid1/ranatalhamajid1/blob/main/download.gif?raw=true" alt="Hacker typing GIF" width="1920" height="732" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Rana Muhammad Talha Majid</h1>
