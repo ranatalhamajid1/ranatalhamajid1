@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="https://github.com/ranatalhamajid1/ranatalhamajid1/assets/download.gif" alt="Hacker typing GIF" width="300" />
+  <img src="https://github.com/ranatalhamajid1/ranatalhamajid1/blob/main/download.gif?raw=true" alt="Hacker typing GIF" width="300" />
 </p>
-
-
 
 <h1 align="center">Hi 👋, I'm Rana Muhammad Talha Majid</h1>
 <h3 align="center">Cybersecurity Enthusiast | Full Stack Developer | Creative Technologist</h3>
