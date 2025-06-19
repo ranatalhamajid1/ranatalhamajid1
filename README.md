@@ -1,74 +1,78 @@
+![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/ef9ada70-59ed-4666-870a-3189a12a6dde)
 
-![Coding Computer Science GIF by CC0 Studios](https://github.com/user-attachments/assets/94678ace-d80c-4ec4-ae3b-9c9e30f3ec46)
+<h1 align="center">Hi 👋, I'm Rana Muhammad Talha Majid</h1>
+<h3 align="center">Cybersecurity Enthusiast | Full Stack Developer | Creative Technologist</h3>
 
-
-# 👋 Hi there! I'm Rana Muhammad Talha Majid
-
-🚀 **Aspiring Cybersecurity Expert | Full Stack Developer | Front-End Enthusiast**
-
-Welcome to my GitHub! I'm a Computer Science student at **UET Taxila**, passionate about web development, cybersecurity, and digital creativity. With hands-on experience in both development and design, I build secure, scalable, and user-friendly solutions.
-
----
-
-### 🧠 About Me
-- 🎓 **Computer Science Student** (2023–2027)
-- 💻 Web Developer | Front-end focused with back-end know-how
-- 🔐 Cybersecurity Enthusiast | PenTest & Threat Analysis | TryHackMe Explorer
-- 🎬 Video Editing & UI/UX Design Hobbyist
-- 📍 Based in **Multan/Islamabad**, Pakistan
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
+</p>
 
 ---
 
-### 🔧 Tech Stack
+### 🔍 About Me
 
-**Languages & Frameworks**
-```html
+- 🎓 **Computer Science student** at UET Taxila  
+- 💼 Former **Frontend Developer Intern** @ Capxa E-commerce  
+- 🛡️ Passionate about **Cybersecurity, Web Development, and UI/UX**
+- 🚀 Currently working on full-stack security-driven projects  
+- 🌱 Exploring **Penetration Testing**, **SOC Operations**, and **AI-Powered Tools**
 
-HTML | CSS | JavaScript | PHP | SQL | C/C++ | Java | Assembly (x86)
-
-React | Bootstrap | TailwindCSS | jQuery
-
-PHP | SQLite | MySQL | SQL Server
-
-## Tools & Platforms
-
-Git | GitHub | VS Code | XAMPP | Figma | Canva | Adobe Premiere | TryHackMe
 ---
-##🌟 Highlights
-🔸 University Management System – Secure full-stack project with PHP & MySQL
 
-🔸 SpectraOps – Cybersecurity portfolio with breach checker, password tester & more
+### 🛠️ Tech Stack & Tools
 
-🔸 Library Management System – SQL Server-backed project with fine system
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code&logoColor=white" />
+</p>
 
-🔸 Custom Contact Form – PHP + SQLite form with input validation & database logging
-
-🔸 Animated Weather & Quiz Apps – JavaScript projects with UI animations, timers, and score tracking
 ---
-##📜 Certifications
-✅ IBM Full Stack Developer (Coursera)
 
-✅ Google Foundations of Cybersecurity (Coursera)
+### 🌟 Highlights
 
-✅ Pentest Cyber Specialist (National IT Skillsets Expansion Program)
+- 🧠 **AI/ML by eHunar**  
+- 🔐 **Google Foundations of Cybersecurity – Coursera**  
+- 🛡️ **PenTest Cyber Specialist – National IT Skillsets Program**  
+- 💻 **IBM Full Stack Developer – Coursera**  
+- 🎯 **TryHackMe – Active Learner**  
 
-✅ Cybersecurity (TryHackMe)
-
-✅ AI/ML (eHunar)
 ---
-##📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ranatalhamajid1&show_icons=true&theme=github_dark" height="165"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranatalhamajid1&layout=compact&theme=github_dark" height="165"> </p>
+
+### 📌 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🕵️‍♂️ [SpectraOps](https://github.com/ranatalhamajid1/SpectraOps) | Cybersecurity app with breach check, password tools | PHP, JS, API |
+| 🎓 [University Management System](https://github.com/ranatalhamajid1/UMS) | Manage students/faculty/admin with secure modules | PHP, SQL |
+| 🌐 [Portfolio Website](https://ranatalhamajid1.github.io) | Responsive HTML/CSS/JS portfolio | HTML, CSS, JS |
+
 ---
-##📬 Let's Connect
-📧 talhamajid404@gmail.com
 
-🌐 [Portfolio]( https://ranatalhamajid1.github.io)
+### 📫 Let's Connect
 
-💼 [LinkedIn]((https://www.linkedin.com/in/rana-muhammad-talha-majid-25233228b/))
+<p>
+  <a href="mailto:talhamajid404@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rana-muhammad-talha-majid-25233228b" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/ranatalhamajid1"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
+</p>
 
-“The best way to predict the future is to create it.” – Abraham Lincoln
+---
 
-⭐️ Thanks for visiting my profile! Feel free to check out my repositories and projects.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ranatalhamajid1&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ranatalhamajid1&theme=radical" />
+</p>
 
-![Code Coding GIF by EscuelaDevRock](https://github.com/user-attachments/assets/0f29860a-99ba-4a19-aecf-1b616ea10cab)
+---
 
+<p align="center"><i>"Security is not a product, but a process." – Bruce Schneier</i></p>
+
+![Coding Computer Science GIF by CC0 Studios](https://github.com/user-attachments/assets/b132f22f-7519-4cdd-bac2-b002b663dc2d)
