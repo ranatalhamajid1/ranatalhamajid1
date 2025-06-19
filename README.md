@@ -1,4 +1,5 @@
-![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/bf4a5fc3-7fb3-4b38-802d-2981a4d4eac1)
+![coding electronic music GIF by Monstercat](https://github.com/user-attachments/assets/fcabf7dc-68be-407a-b3ae-901d3567ddfd)
+
 
 <h1 align="center">Hi 👋, I'm Rana Muhammad Talha Majid</h1>
 <h3 align="center">Cybersecurity Enthusiast | Full Stack Developer | Creative Technologist</h3>
@@ -75,4 +76,5 @@
 
 <p align="center"><i>"Security is not a product, but a process." – Bruce Schneier</i></p>
 
-![download](https://github.com/user-attachments/assets/4e63c97e-4f50-4161-ae77-16f19ab636b7)
+![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/57785593-7be5-451f-9170-fb36b4204c79)
+
