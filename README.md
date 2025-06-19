@@ -75,4 +75,5 @@
 
 <p align="center"><i>"Security is not a product, but a process." – Bruce Schneier</i></p>
 
-![Coding Computer Science GIF by CC0 Studios](https://github.com/user-attachments/assets/b132f22f-7519-4cdd-bac2-b002b663dc2d)
+![Coding Computer Science GIF by CC0 Studios](https://github.com/user-attachments/assets/b132f22f-7519-4cdd-bac2-b002b663dc2d)  ![Code Coding GIF by EscuelaDevRock](https://github.com/user-attachments/assets/b6ddb4c8-b78b-40c8-a8b6-b27b1f1f4a12)
+
