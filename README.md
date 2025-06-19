@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://github.com/ranatalhamajid1/ranatalhamajid1/blob/main/download.gif?raw=true" alt="Hacker typing GIF" width="1920" height="732" />
-</p>
-
+![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/57785593-7be5-451f-9170-fb36b4204c79)
 <h1 align="center">Hi 👋, I'm Rana Muhammad Talha Majid</h1>
 <h3 align="center">Cybersecurity Enthusiast | Full Stack Developer | Creative Technologist</h3>
 
@@ -77,5 +74,7 @@
 
 <p align="center"><i>"Security is not a product, but a process." – Bruce Schneier</i></p>
 
-![232639433-cb0aea21-66f0-4508-a771-85e2089c5a87](https://github.com/user-attachments/assets/57785593-7be5-451f-9170-fb36b4204c79)
+<p align="center">
+  <img src="https://github.com/ranatalhamajid1/ranatalhamajid1/blob/main/download.gif?raw=true" alt="Hacker typing GIF" width="1920" height="732" />
+</p>
 
