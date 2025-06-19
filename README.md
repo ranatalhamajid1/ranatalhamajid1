@@ -1,4 +1,7 @@
-![coding electronic music GIF by Monstercat](https://github.com/user-attachments/assets/fcabf7dc-68be-407a-b3ae-901d3567ddfd)
+<p align="center">
+  <img src="https://github.com/ranatalhamajid1/ranatalhamajid1/assets/download.gif" alt="Hacker typing GIF" width="300" />
+</p>
+
 
 
 <h1 align="center">Hi 👋, I'm Rana Muhammad Talha Majid</h1>
