@@ -7,10 +7,6 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;Ethical+Hacker+in+Progress;Building+Secure+Systems;Always+Learning+🚀" />
 </p>
 
@@ -138,7 +134,4 @@ Responsive personal portfolio
 
 <p align="center">
   <img src="https://github.com/ranatalhamajid1/ranatalhamajid1/blob/main/download.gif?raw=true" width="260"/>
-</p>
-<p align="center">
-  <img src="https://github.com/ranatalhamajid1/ranatalhamajid1/blob/main/download.gif?raw=true" alt="Hacker typing GIF" width="302"/>
 </p>
