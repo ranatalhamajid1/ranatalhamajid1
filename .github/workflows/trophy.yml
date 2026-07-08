@@ -6,15 +6,19 @@ on:
   push:
     branches: [main]
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: ryo-ma/github-profile-trophy@main
+      - uses: ryo-ma/github-profile-trophy@master
         with:
           username: ranatalhamajid1
-          output: profile-trophy.svg
+          output_path: profile-trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
           theme: algolia
           no-frame: true
           no-bg: true
