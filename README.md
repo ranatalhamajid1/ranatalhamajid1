@@ -83,6 +83,8 @@ Responsive personal portfolio
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ranatalhamajid1&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
 ## 🐍 Contribution Snake (Elite Feature)
 
 <p align="center">
@@ -100,10 +102,10 @@ Responsive personal portfolio
 ---
 
 ## 🏆 Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ranatalhamajid1&theme=algolia&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ranatalhamajid1&theme=algolia&no-frame=true&no-bg=true&margin-w=8" />
 </p>
+
 ---
 
 ## 📫 Connect With Me
