@@ -103,7 +103,7 @@ Responsive personal portfolio
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=ranatalhamajid1&theme=algolia&no-frame=true&no-bg=true&margin-w=8" />
+  <img src="https://raw.githubusercontent.com/ranatalhamajid1/ranatalhamajid1/main/profile-trophy.svg" />
 </p>
 
 ---
