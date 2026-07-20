@@ -171,31 +171,11 @@ https://talhamajid.me
 ---
 
 # 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ranatalhamajid1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranatalhamajid1&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=ranatalhamajid1&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ranatalhamajid1&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
 ---
 
 # 📈 Contribution Graph
@@ -203,16 +183,6 @@ https://talhamajid.me
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranatalhamajid1&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/ranatalhamajid1/ranatalhamajid1/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
