@@ -4,13 +4,11 @@
 
 ### 🔐 Cybersecurity Enthusiast • 💻 Full Stack Developer • 🚀 DevSecOps Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Building+Secure+Applications;Cybersecurity+Enthusiast;Full+Stack+Developer;DevSecOps+Learner;Always+Learning+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=900&lines=Cybersecurity+Enthusiast;Full+Stack+Developer;DevSecOps+Learner;Building+Secure+Applications;Always+Learning+New+Things" />
 
-<br>
+<br><br>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=ranatalhamajid1&label=Profile%20Views&color=6A5ACD&style=for-the-badge" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=ranatalhamajid1&label=Profile+Views&style=for-the-badge&color=6A5ACD"/>
 
 </div>
 
@@ -19,79 +17,83 @@
 # 💫 About Me
 
 🎓 **BS Computer Science**  
-University of Engineering & Technology Taxila *(2023–2027)*
+University of Engineering & Technology Taxila *(2023 – 2027)*
 
-🛡 Passionate about
+💻 Passionate about building **secure, scalable and modern applications**
+
+🛡 Interested in
 
 - Cybersecurity
-- DevSecOps
-- Secure Software Engineering
 - Application Security
+- DevSecOps
 - Cloud Security
+- Secure Software Development
 
-💻 Building secure, scalable and production-ready applications.
-
-🌱 Currently learning
+🌱 Currently Learning
 
 - Docker
 - Kubernetes
 - GitHub Actions
-- Cloud Security
+- CI/CD
 - API Security
+- Cloud Security
 - OWASP Top 10
-- Penetration Testing
-
-💬 Ask me about
-
-```
-React
-Node.js
-Express
-PHP
-JavaScript
-Cybersecurity
-DevSecOps
-```
 
 ---
 
-# ⚙ Tech Stack
+# 💻 Tech Stack
 
-## Languages
+## Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,php" />
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,js,php"/>
+
 </p>
+
+---
 
 ## Frontend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react,redux" />
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,redux"/>
+
 </p>
+
+---
 
 ## Backend
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,sqlite" />
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,sqlite"/>
+
 </p>
+
+---
 
 ## DevOps & Tools
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,githubactions,vscode,postman" />
+
+<img src="https://skillicons.dev/icons?i=docker,linux,bash,git,github,githubactions,vscode,postman"/>
+
 </p>
+
+---
 
 ## Cybersecurity
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black">
+<img src="https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
 
-<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp">
+<img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp"/>
 
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge">
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge"/>
 
 </p>
 
@@ -101,9 +103,9 @@ DevSecOps
 
 ## 🏦 Secure Banking Lab
 
-Production-ready secure banking application built with React & Node.js featuring authentication, transactions, dashboards and security best practices.
+A secure banking platform demonstrating authentication, transactions, dashboards and secure development practices.
 
-🔗 **Repository**
+🔗 Repository
 
 https://github.com/ranatalhamajid1/secure-banking-lab
 
@@ -111,9 +113,9 @@ https://github.com/ranatalhamajid1/secure-banking-lab
 
 ## 🛡 SpectraOps
 
-Modern cybersecurity platform featuring security tools, threat intelligence and secure development practices.
+Cybersecurity platform featuring practical security tools and modern secure development practices.
 
-🔗
+🔗 Repository
 
 https://github.com/ranatalhamajid1/SpectraOps
 
@@ -121,9 +123,9 @@ https://github.com/ranatalhamajid1/SpectraOps
 
 ## 🎓 University Management System
 
-Complete academic management solution.
+Complete academic management system built using full-stack technologies.
 
-🔗
+🔗 Repository
 
 https://github.com/ranatalhamajid1/UMS
 
@@ -157,13 +159,13 @@ https://talhamajid.me
 
 ---
 
-# 📅 2026 Goals
+# 📅 Goals
 
 - ✅ Master Docker
 - ✅ Learn Kubernetes
-- ✅ Build 10 Security Projects
-- ✅ Complete 100+ TryHackMe Rooms
 - ✅ Learn AWS Security
+- ✅ Complete 100+ TryHackMe Rooms
+- ✅ Build Security Projects
 - ✅ Contribute to Open Source
 
 ---
@@ -172,7 +174,9 @@ https://talhamajid.me
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ranatalhamajid1&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ranatalhamajid1&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranatalhamajid1&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -188,7 +192,7 @@ https://talhamajid.me
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ranatalhamajid1&theme=tokyonight&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ranatalhamajid1&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -206,11 +210,9 @@ https://talhamajid.me
 
 # 🐍 Contribution Snake
 
-> **Requires GitHub Actions (see workflow below).**
-
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/ranatalhamajid1/ranatalhamajid1/output/github-contribution-grid-snake-dark.svg">
+<img src="https://raw.githubusercontent.com/ranatalhamajid1/ranatalhamajid1/output/github-contribution-grid-snake-dark.svg"/>
 
 </p>
 
@@ -221,19 +223,19 @@ https://talhamajid.me
 <p align="center">
 
 <a href="mailto:talhamajid404@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/rana-muhammad-talha-majid-25233228b">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ranatalhamajid1">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://talhamajid.me">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
 </a>
 
 </p>
@@ -251,6 +253,6 @@ https://talhamajid.me
 
 ### ⭐ Thanks for visiting!
 
-**Code Securely • Keep Learning • Build Impact**
+**Code Securely • Learn Continuously • Build with Purpose**
 
 </div>
